@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1nt4y1o74x
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的在线文档管理系统，可以给管理员、普通员工使用，包括岗位管理模块、员工管理模块、文档管理模块、部门管理模块、公告管理模块和系统基础模块，项目编号T038。
 
